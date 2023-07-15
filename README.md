@@ -1,4 +1,4 @@
-## Admin-Panel-UI
+## Admin-Dashboard-UI
 ### Bulit Using HTML CSS JavaScript
 ### Live Demo : https://arjuncvinod.github.io/Admin-Panel-UI/
 #### Screenshots :
